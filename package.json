@@ -1,0 +1,29 @@
+{
+  "name": "flesch-kincaid-calc",
+  "version": "1.0.0",
+  "description": "A library for calculating the Flesch-Kincaid grade level and reading ease.",
+  "main": "index.js",
+  "dependencies": {
+    "decimal.js": "^10.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "readability",
+    "flesch",
+    "kincaid",
+    "flesch-kincaid",
+    "grade",
+    "level",
+    "reading",
+    "ease"
+  ],
+  "author": "Ken Bimmel",
+  "license": "MIT"
+}
