@@ -1,6 +1,6 @@
 {
   "name": "flesch-kincaid-calc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for calculating the Flesch-Kincaid grade level and reading ease.",
   "homepage": "https://github.com/ken-bimmel/flesch-kincaid#flesch-kincaid-calc",
   "bugs": {
